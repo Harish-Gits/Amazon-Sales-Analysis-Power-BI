@@ -15,7 +15,5 @@ https://docs.google.com/spreadsheets/d/1h3EsPf-fTLrzpP7sGeyuRnGBXrdJRcXY/edit?us
 Business Intelligence
 ## DOMAIN:
 E-commerce
-## PROGRAMMING LANGUAGE:
-PYTHON
 ## TOOLS:
-Jupyter Notebook, Power BI, MS Excel
+Power BI, MS Excel, Power Point
