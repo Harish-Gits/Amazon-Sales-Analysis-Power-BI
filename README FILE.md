@@ -1,6 +1,6 @@
 # Amazon-Sales-Data-Analysis
 ## OBJECTIVE:
-To Understand how was the Sales of different times.
+To Understand how was the Sales in different times.
 ## PROBLEM STATEMENT: 
 Sales Management has gained importance to meet increasing competition and the need
 for improved methods of distribution to reduce cost and to increase profits. Sales
